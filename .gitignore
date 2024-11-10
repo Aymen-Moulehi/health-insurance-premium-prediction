@@ -1,0 +1,63 @@
+# Ignore the trained model file
+app/model/insurance_premium_predictor.pkl
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python distribution and packaging
+*.egg
+*.egg-info
+dist/
+build/
+*.tar.gz
+*.whl
+
+# IDEs and editors (commonly used ones)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS files
+.DS_Store
+
+# Windows Installer
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Data files (if large, to avoid pushing to GitHub)
+data/raw/
+data/processed/
+
+# Model files (if they are large or unnecessary to version control)
+model/
+
+# Environment configuration
+.env
+*.env
+
+# pytest cache
+.cache/
+
+# Coverage reports (if using pytest)
+coverage/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
