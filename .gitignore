@@ -40,10 +40,6 @@ Thumbs.db
 *.log
 *.sqlite
 
-# Data files (if large, to avoid pushing to GitHub)
-data/raw/
-data/processed/
-
 # Model files (if they are large or unnecessary to version control)
 model/
 
