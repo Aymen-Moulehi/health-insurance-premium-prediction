@@ -25,7 +25,7 @@ This project includes:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/health-insurance-premium-prediction.git
+git clone https://github.com/Aymen-Moulehi/health-insurance-premium-prediction.git
 cd health-insurance-premium-prediction
  ```
 
